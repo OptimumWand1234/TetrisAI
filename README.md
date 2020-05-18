@@ -1,2 +1,2 @@
-# TetrisAI
-AI That Plays Tetris Forever Given No Block Limit. Implemented Using Genetic Algorithm in Python.
+# Tetris Game and the Auto-Player
+![Tetris Auto-Player Demo](demo/tetris demo.gif)
