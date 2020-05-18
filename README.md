@@ -1,2 +1,2 @@
 # Tetris Game and the Auto-Player
-![Tetris Auto-Player Demo](./tetris demo.gif)
+![Tetris Auto-Player Demo](./demo.gif)
