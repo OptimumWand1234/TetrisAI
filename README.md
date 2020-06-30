@@ -1,5 +1,5 @@
 # Tetris Game and the Auto-Player
-<div align="center"><img src="./demo.gif" /></div>
+<div align="center"><img src="./demo.gif" width="200" height="350" /></div>
 
 Alexey Pajitnov's Tetris game has been on millions of electronic devices all over the world, and Tetris is often reffered to as classic.
 I have added an auto-player to the game, which, given no block limit, on average reaches a score of 3,000,000.
